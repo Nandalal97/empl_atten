@@ -1,0 +1,21 @@
+#sign_user{
+  display: none;
+}
+#login_btn{
+  width: 110px;
+  padding:5px 0px 5px 0px;
+  border:none;
+  border-radius: 5px 0px 0px 5px;
+  font-size: 18px;
+}
+#signup_btn{
+  width: 110px;
+  padding:5px 0px 5px 0px;
+  border: none;
+  border-radius: 0px 5px 5px 0px;
+  font-size: 18px;
+}
+.active{
+  background-color: aqua;
+
+}
